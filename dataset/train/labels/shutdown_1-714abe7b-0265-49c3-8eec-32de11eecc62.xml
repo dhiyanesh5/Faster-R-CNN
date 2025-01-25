@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>shutdown_1-714abe7b-0265-49c3-8eec-32de11eecc62.jpg</filename>
+	<path>E:\Computer vision\Gotishell\Faster R-CNN\dataset\images\train\shutdown_1-714abe7b-0265-49c3-8eec-32de11eecc62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2289</xmin>
+			<ymin>326</ymin>
+			<xmax>2334</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

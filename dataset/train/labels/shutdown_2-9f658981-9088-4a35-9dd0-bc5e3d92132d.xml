@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>shutdown_2-9f658981-9088-4a35-9dd0-bc5e3d92132d.jpg</filename>
+	<path>E:\Computer vision\Gotishell\Faster R-CNN\dataset\images\train\shutdown_2-9f658981-9088-4a35-9dd0-bc5e3d92132d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IFR_Suit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2136</xmin>
+			<ymin>981</ymin>
+			<xmax>2243</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+	</object>
+</annotation>

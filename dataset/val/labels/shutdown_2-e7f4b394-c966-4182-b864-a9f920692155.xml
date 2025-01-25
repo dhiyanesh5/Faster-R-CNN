@@ -1,0 +1,38 @@
+<annotation>
+	<folder>val</folder>
+	<filename>shutdown_2-e7f4b394-c966-4182-b864-a9f920692155.jpg</filename>
+	<path>E:\Computer vision\Gotishell\Faster R-CNN\dataset\images\val\shutdown_2-e7f4b394-c966-4182-b864-a9f920692155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IFR_Suit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymin>965</ymin>
+			<xmax>1040</xmax>
+			<ymax>1145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IFR_Suit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>967</ymin>
+			<xmax>945</xmax>
+			<ymax>1130</ymax>
+		</bndbox>
+	</object>
+</annotation>

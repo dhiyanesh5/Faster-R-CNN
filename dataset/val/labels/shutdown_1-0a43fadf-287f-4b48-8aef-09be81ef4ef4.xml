@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>shutdown_1-0a43fadf-287f-4b48-8aef-09be81ef4ef4.jpg</filename>
+	<path>E:\Computer vision\Gotishell\Faster R-CNN\dataset\images\val\shutdown_1-0a43fadf-287f-4b48-8aef-09be81ef4ef4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2514</xmin>
+			<ymin>1256</ymin>
+			<xmax>2621</xmax>
+			<ymax>1326</ymax>
+		</bndbox>
+	</object>
+</annotation>
